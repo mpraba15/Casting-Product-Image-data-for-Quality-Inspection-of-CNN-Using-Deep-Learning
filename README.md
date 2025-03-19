@@ -29,5 +29,7 @@ Performance metrics such as accuracy, precision, recall, and confusion matrix ar
 
 ### Outcome & Benefits:
 Automation of quality inspection, reducing manual errors.
+
 Improved accuracy in identifying defective products.
+
 Enhanced efficiency in manufacturing by speeding up the inspection process.
